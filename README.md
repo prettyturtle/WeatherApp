@@ -26,4 +26,4 @@ Kingfisher|웹 서버 이미지를 쉽게 적용|7.1.2
     - 실패시 UIAlertController로 에러 표시하기
 
 ### 결과
-![](/WeatherApp/resultImage.gif)
+<p align="center"><img src="/WeatherApp/resultImage.gif"></p>
